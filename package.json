@@ -1,0 +1,19 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "Angular 2 typescript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assadzakir/Angular-2-Typescript-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assadzakir/Angular-2-Typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/assadzakir/Angular-2-Typescript-boilerplate#readme",
+  "devDependencies": {
+    "tsd": "^0.6.0"
+  }
+}
